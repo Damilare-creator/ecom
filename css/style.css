@@ -1,0 +1,662 @@
+body{
+    overflow-x: hidden;
+}
+nav li{
+    float: left;
+    list-style:  none;
+    margin-left: 40px;
+    padding-top: 40px;
+}
+
+nav{
+    margin-left: -10px;
+    padding-left: 350px;
+    background-color: red;
+    height: 100px;
+    width: 78%;
+    margin-top: -20px;
+}
+
+nav li a{
+    text-decoration: none;
+    font-weight: bolder;
+    color: black;
+}
+.line{
+    margin-top: -18px;
+    margin-left: -10px;
+    opacity: 0.2;
+}
+.active{
+    color: red;
+}
+
+.div1{
+    background-color: antiquewhite;
+    margin-top: -35px;
+    margin-left: -10px;
+    width: 1500px;
+    height: 450px;
+}
+.div1 h1{
+    padding-left: 100px;
+    padding-top: 50px;
+    font-size: 50px;
+}
+.Fashion{
+    color: red;
+}
+.div1 img{
+    border-radius: 10px 0 0 10px;
+    margin-left: 700px;
+    margin-top: -420px;
+    width: 400px;
+
+}
+.P1{
+    padding-left: 100PX;
+    margin-top: -1px;
+    margin-bottom: 20px;
+}
+.p2{
+    background-color: red;
+    width: 90px;
+    height: 30px;
+    border-radius: 10px;
+    text-align: center;
+    padding-top: 10px;
+    margin-left: 100px;
+}
+.p2 a{
+    text-decoration: none;
+    color: white;
+}
+
+.div2{
+    text-align: center;
+  
+}
+.div2 h1{
+    font-weight: bolder;
+    font-size: 40px;
+}
+.div2 img{
+    width: 300px;
+    height: 300px;
+    margin-left: 20px;
+    border-radius: 10%;
+    margin-top: -20px;
+}
+   
+
+.div2 .p3{
+    background-color: red;
+    width: 250px;
+    height: 30px;
+    border-radius: 10px;
+    text-align: center;
+    padding-top: 10px;
+    margin-left: 220px;
+    margin-top:-50px;
+    z-index:10;
+    position: absolute;
+}
+
+
+.p3 a{
+    text-decoration: none;
+    color: white;
+    
+}
+
+.div3 img{
+    width: 350px;
+    height: 450px;
+    margin-left: 120px;
+    border-radius: 50px 0 0 0;
+}
+.div3 h1{
+    margin-left: 500px;
+    margin-top: -450px;
+    font-weight: bolder;
+    font-size: 38px;
+}
+.div3 h1 .span1{
+    color: brown;
+    margin-left: 0px;
+}
+.div3 p{
+    margin-left: 500px;
+}
+
+.div3 .div3b li{
+    float: left;
+    text-align: center;
+    margin-left: 50px;
+    list-style: none;
+}
+.div3 .div3b{
+    background-color: blueviolet;
+    margin-left: 370px;
+    height: 100px;
+    width: 540px;
+    border-radius: 10px;
+    position: absolute;
+    z-index: 10;
+    margin-top: 50px;
+}
+.div3 .div3b .li1{
+    font-size: 40px;
+    font-weight: bold;
+    margin-top: -23px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: red;
+    margin-left: 65px;
+
+}
+.div3 .div3b .li2{
+    margin-top: -10px;
+    font-size: 20px;
+    margin-left: 45px;
+
+}
+.div4{
+    /* margin-left: 120px; */
+    height: 500px;
+    background-color: rgb(252, 250, 247);
+    padding-top: 100px;
+    width: 100%;
+   
+}
+.div4 h1{
+    font-size: 40px;
+    margin-left: 120px;
+}
+.div4 h1 .seller{
+    color: red;
+
+}
+.div4 p{
+    margin-left: 120px;
+}
+.div4c img{
+width: 200px;
+height: 200px;
+float: left;
+margin-left: 10px;
+} 
+.div4c{
+    margin-left: 550px;
+    margin-top: -200px;
+}
+.div5 .div5b{
+    color: red;
+    padding-top: 20px;
+    padding-left: 10px;
+}
+.div5 {
+    border: 2px solid rgb(215, 180, 180);
+    background-color: white;
+    width: 196px;
+    margin-top: 180px;
+    margin-left: 560px;
+}
+.div5 .div5c{
+    margin-left: 170px;
+    margin-top:-20px ;
+}
+.div5 p{
+    margin-left: 10px;
+}
+.div5 p .span2{
+    opacity: 0.6;
+    text-decoration: line-through;
+}
+
+.div6 .div6b{
+    color: red;
+    padding-top: 20px;
+    padding-left: 10px;
+}
+.div6 {
+    border: 2px solid rgb(215, 180, 180);
+    background-color: white;
+    width: 196px;
+    margin-top: -110px;
+    margin-bottom: -20px;
+    margin-left: 770px;
+}
+.div6 .div6c{
+    margin-left: 170px;
+    margin-top:-20px ;
+}
+.div6 p{
+    margin-left: 10px;
+}
+.div6 p .span2{
+    opacity: 0.6;
+    text-decoration: line-through;
+}
+
+.div7 .div7b{
+    color: red;
+    padding-top: 20px;
+    padding-left: 10px;
+}
+.div7 {
+    border: 2px solid rgb(215, 180, 180);
+    background-color: white;
+    width: 196px;
+    margin-top: -108px;
+    margin-bottom: -20px;
+    margin-left: 980px;
+}
+.div7 .div7c{
+    margin-left: 170px;
+    margin-top:-20px ;
+}
+.div7 p{
+    margin-left: 10px;
+}
+.div7 p .span2{
+    opacity: 0.6;
+    text-decoration: line-through;
+}
+.div8{
+    text-align: center;
+}
+.div8 li{
+list-style: none;
+float: left;
+margin-left: 20px;
+border: 1px solid rgb(0, 0, 0);
+width: 70px;
+padding:10px 0 ;
+}
+.div8 li a{
+   text-decoration: none; 
+   text-align: center;
+   color: black;
+   
+}
+.div8 ul {
+    margin-left: 450px;
+}
+.div8 .active{
+    background-color: red;
+    border: 1px solid red;
+}
+.div8 li:hover{
+    background-color: black;
+   
+}
+.div8 li a:hover{
+    color: white;
+}
+.div8b img{
+    width: 250px;
+    height: 250px;
+    float: left;
+    margin-left: 20px;
+    } 
+ .div8b{
+        margin-left: 100px; 
+       
+    }
+
+    .div8c .div8d{
+        color: red;
+        padding-top: 20px;
+        padding-right: 120px;
+    }
+    .div8c {
+        border: 2px solid rgb(215, 180, 180);
+        background-color: white;
+        width: 246px;
+        margin-top: px;
+        margin-left: 120px;
+    }
+    .div8c .div8e{
+        margin-left: 200px;
+        margin-top:-20px ;
+    }
+    .div8c p{
+        margin-left: -140px;
+    }
+    .div8c p .span2{
+        opacity: 0.6;
+        text-decoration: line-through;
+    }
+    
+    .div9 .div9a{
+        color: red;
+        padding-top: 20px;
+        padding-right: 120px;
+    }
+    .div9 {
+        border: 2px solid rgb(215, 180, 180);
+        background-color: white;
+        width: 246px;
+        margin-top: -125px;
+        margin-left: 390px;
+    }
+    .div9 .div9b{
+        margin-left: 190px;
+        margin-top:-20px ;
+    }
+    .div9 p{
+        margin-right: 130px;
+    }
+    .div9 p .span2{
+        opacity: 0.6;
+        text-decoration: line-through;
+    }
+    
+    .div10 .div10a{
+        color: red;
+        padding-top: 20px;
+        padding-right: 130px;
+    }
+    .div10 {
+        border: 2px solid rgb(215, 180, 180);
+        background-color: white;
+        width: 246px;
+        margin-top: -125px;
+        margin-left: 660px;
+    }
+    .div10 .div10b{
+        margin-left: 190px;
+        margin-top:-20px ;
+    }
+    .div10 p{
+        margin-right: 130px;
+    }
+    .div10 p .span2{
+        opacity: 0.6;
+        text-decoration: line-through;
+    }
+    .div11 .div11a{
+        color: red;
+        padding-top: 20px;
+        padding-right: 130px;
+    }
+    .div11 {
+        border: 2px solid rgb(215, 180, 180);
+        background-color: white;
+        width: 246px;
+        margin-top: -126px;
+        margin-left: 930px;
+    }
+    .div11 .div11b{
+        margin-left: 190px;
+        margin-top:-20px ;
+    }
+    .div11 p{
+        margin-right: 130px;
+    }
+    .div11 p .span2{
+        opacity: 0.6;
+        text-decoration: line-through;
+    }
+    
+    .div12{
+        height: 500px;
+        background-color: rgba(48, 46, 41, 0.148);
+        padding-top: 100px;
+        width: 100%;
+        
+    }
+    .div12 h1 {
+        margin-left: 120px;
+        font-size: 50px;
+    }
+    .div12 p{
+        margin-left: 120px;
+    }
+    .div12 img{
+        width: 700px;
+        height: 470px;
+        margin-left: 610px;
+        margin-top: -445px;
+        border-radius: 5px;
+       
+    }
+
+    .lastp2{
+        background-color: red;
+        width: 90px;
+        height: 30px;
+        border-radius: 10px;
+        text-align: center;
+        padding-top: 10px;
+        margin-left: 100px;
+        margin-top: 200px;
+    }
+    .p2 a{
+        text-decoration: none;
+        color: white;
+    }
+    .div12 .lastp2{
+        background-color: red;
+        border: 1px solid red;
+    }
+    .div12 a:hover{
+        background-color: black;
+       
+    }
+    a{
+        text-decoration: none;
+    }
+    .div12  a:hover{
+        color: white;
+    }
+    .div12 a:active{
+        text-decoration: none;
+    }
+    .div12 li{
+        background-color: rgb(78, 62, 78);
+        text-align: center;
+        font-size: 40px;
+        border-radius: 15px;
+        color: white;
+        list-style: none;
+        float: left;
+        margin-left: 60px;
+        border: 1px solid rgb(0, 0, 0);
+        width: 120px;
+        padding:10px 0 ;
+        height: 100px;
+     }
+    .div13{
+        background-color: rgba(188, 168, 168, 0.395);
+        width: 1400px;
+        height:500px;
+        padding-top: 80px;
+
+    }
+    .div13 h1{
+        font-size: 40px;
+        margin-left: 30px;
+    }
+    .div13 h1 .people{
+        color: red;
+    
+    }
+    .div13 p{
+        margin-left: 30px;
+    }
+    .div13a img{
+        width: 110px;
+        height: 110px;
+        float: left;
+        margin-left: 95px;
+        margin-top: 3c0px;
+        border-radius: 70%;
+        /* z-index:10;
+        position: absolute; */
+    } 
+    .div13a{
+        margin-left: 500px;
+        margin-top: -290px;
+    }
+
+    .div13b .div13c{
+        color: red;
+        margin-left:50px;
+        padding-left: 10px;
+        list-style: none;
+    }
+
+    .div13b{
+        background-color: aliceblue;
+        width: 300px;
+        height: 300px;
+        border: 2px solid black;
+        padding-top: 50px;
+        margin-top: -180px;
+        margin-left: 495px;
+    }
+
+    .div13b p{
+        font-size: 20px;
+        margin-top: 10px;
+        text-align: center;
+        margin-left: 20px;
+    }
+
+    .div14b .div14c{
+        color: red;
+        margin-left:110px;
+        padding-left: 10px;
+        list-style: none;
+    }
+
+    .div14b{
+        background-color: aliceblue;
+        width: 300px;
+        height: 300px;
+        border: 2px solid black;
+        padding-top: 50px;
+        margin-top: -355px;
+        margin-left: 856px;
+    }
+
+    .div14b p{
+        font-size: 20px;
+        margin-top: 10px;
+        text-align: center;
+        margin-left: 20px;
+    }
+
+    .div15b .div15c{
+        color: red;
+        margin-left:110px;
+        padding-left: 10px;
+        list-style: none;
+    }
+
+    .div15b{
+        background-color: aliceblue;
+        width: 300px;
+        height: 300px;
+        border: 2px solid black;
+        padding-top: 50px;
+        margin-top: -350px;
+        margin-left: 1240px;
+    }
+
+    .div15b p{
+        font-size: 20px;
+        margin-top: 10px;
+        text-align: center;
+        margin-left: 20px;
+    }
+    footer{
+        background-color:rgb(89, 89, 131);
+        height: 250px;
+    }
+    
+    .subscribe-form{
+        display: flex;
+        align-items: center;
+        margin-left: 450px;
+    
+        
+    }
+    .subscribe-form input[type="email"]{
+        padding: 25px;
+        width: 600px;
+        border-radius: 50px;
+        margin-top: -30px;
+        outline: none;
+        border: 2px solid white;
+       
+    }
+    .subscribe-form button{
+        padding: 20px 40px;
+        width: 200px;
+        border-radius: 50px;
+        background-color: red;
+        border: 2px solid red;
+        margin-top:-30px;
+        margin-left: -205px;
+    }
+    .subscribe-form button a{
+        color: white;
+    }
+    .ul2{
+         margin-left: 470px;
+    }
+    ul li{
+        float: left;
+        margin-left: 50px;
+        list-style:none ;
+    
+    }
+    ul li a{
+        color: white;
+    }
+
+    .div13a .image{
+        margin-left: 260px;
+    }
+    footer p{
+        color: white;
+        text-align: center;
+    }
+
+*/
+@media (max-width: 768px) 
+  
+.div1{
+    width:200px;
+}
+.line{
+    margin-top: -120;
+}
+.div2{
+    margin-left: 150px;
+    display: grid;
+}
+.div3 p{
+    margin-left: 650px;
+}
+.div3 .div3b li{
+    float: left;
+    text-align: center;
+    margin-left: 50px;
+    list-style: none;
+}
+.div3 .div3b{
+    background-color: rgb(104, 104, 229);
+    margin-left: 550px;
+    height: 100px;
+    width: 540px;
+    border-radius: 10px;
+    position: absolute;
+    z-index: 10;
+    margin-top: -25px;
+}
+nav li{
+    
+}
